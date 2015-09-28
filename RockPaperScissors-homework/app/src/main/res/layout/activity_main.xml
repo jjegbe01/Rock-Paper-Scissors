@@ -31,7 +31,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="-10dp" >
 
-            <ImageView
+            <ImageButton
                 android:layout_width="70dp"
                 android:layout_height="70dp"
                 android:layout_alignParentLeft="true"
@@ -39,7 +39,7 @@
                 android:id="@+id/btnPaper"
                 android:background="@drawable/paper" />
 
-            <ImageView
+            <ImageButton
                 android:layout_width="70dp"
                 android:layout_height="70dp"
                 android:layout_alignParentRight="true"
@@ -53,7 +53,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp" >
 
-            <ImageView
+            <ImageButton
                 android:layout_width="70dp"
                 android:layout_height="70dp"
                 android:layout_alignParentLeft="true"
@@ -61,7 +61,7 @@
                 android:id="@+id/btnLizard"
                 android:background="@drawable/lizard" />
 
-            <ImageView
+            <ImageButton
                 android:layout_width="70dp"
                 android:layout_height="70dp"
                 android:layout_alignParentRight="true"
